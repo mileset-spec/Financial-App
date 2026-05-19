@@ -1,0 +1,6 @@
+{
+  "name": "Master the Markets",
+  "description": "A hyper-modern, premium finance dashboard website homepage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
